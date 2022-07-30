@@ -1,0 +1,1 @@
+# smri-oms-middleware-anchanto-fluent-inventory-feed
